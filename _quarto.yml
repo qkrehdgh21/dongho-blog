@@ -1,6 +1,6 @@
 project:
   type: website
-
+  output-dir: docs
 website:
   title: "dongho-blog"
   navbar:
@@ -16,6 +16,3 @@ format:
       - cosmo
       - brand
     css: styles.css
-
-
-
