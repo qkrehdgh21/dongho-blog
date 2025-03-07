@@ -75,5 +75,19 @@
     "title": "About",
     "section": "",
     "text": "About this blog"
+  },
+  {
+    "objectID": "posts/first_post/index.html",
+    "href": "posts/first_post/index.html",
+    "title": "first post",
+    "section": "",
+    "text": "넘파이 패키지를 불러옵시다\n\nimport numpy as np\n\na = np.array([1,2,3])\n\n\n\n\n판다스 패키지를 불러옵니다.\n\nimport pandas as pd"
+  },
+  {
+    "objectID": "posts/first_post/index.html#파이썬-데이터-분석",
+    "href": "posts/first_post/index.html#파이썬-데이터-분석",
+    "title": "first post",
+    "section": "",
+    "text": "넘파이 패키지를 불러옵시다\n\nimport numpy as np\n\na = np.array([1,2,3])\n\n\n\n\n판다스 패키지를 불러옵니다.\n\nimport pandas as pd"
   }
 ]

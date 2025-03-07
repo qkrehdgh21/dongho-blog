@@ -1,0 +1,12 @@
+{
+  "hash": "0b3c6c5515dd5956cba0e4cf2ccead51",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"first post\"\nauthor: \"dongho\"\ndate: \"2025-03-07\"\ncategories: [python, pandas, numpy]\nimage: \"firtst_post.jpg\"\n---\n\n\n\n\n\n\n\n## 파이썬 데이터 분석\n\n### 넘파이\n\n넘파이 패키지를 불러옵시다\n\n::: {#c386e094 .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n\na = np.array([1,2,3])\n```\n:::\n\n\n### 판다스\n\n판다스 패키지를 불러옵니다.\n\n::: {#e97e0b98 .cell execution_count=2}\n``` {.python .cell-code}\nimport pandas as pd\n\n```\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
