@@ -7,9 +7,8 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        text: 깃헙
+        href: https://github.com/qkrehdgh21/dongho-blog
 format:
   html:
     theme:

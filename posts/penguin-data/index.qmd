@@ -3,7 +3,7 @@ title: "Penguin data"
 author: "Harlow Malloc"
 date: "2025-03-06"
 categories: [news, code, analysis]
-image: "penguin-pic.jpg"
+image: "penguin_pic.jpg"
 ---
 
 This is a post with executable code.

@@ -1,0 +1,43 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Post With Code\"\n",
+        "author: \"Harlow Malloc\"\n",
+        "date: \"2025-03-06\"\n",
+        "categories: [news, code, analysis]\n",
+        "image: \"image.jpg\"\n",
+        "---\n",
+        "\n",
+        "\n",
+        "This is a post with executable code.\n"
+      ],
+      "id": "04a6ed2c"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "import numpy as np\n",
+        "a = np.arange(10)\n",
+        "a"
+      ],
+      "id": "225c8706",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\USER\\AppData\\Roaming\\Python\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
