@@ -17,3 +17,5 @@ about:
 ---
 
 About this blog
+
+통계분석 자료 공부 모음
